@@ -1,0 +1,2 @@
+SET TARGET=build
+webpack
